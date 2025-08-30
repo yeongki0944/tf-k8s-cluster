@@ -229,16 +229,6 @@ terraform destroy
 # - 임시 파일들
 ```
 
-## 📚 추가 학습 자료
-
-- [Kubernetes 공식 문서](https://kubernetes.io/docs/)
-- [kubeadm으로 클러스터 구축하기](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/)
-- [Terraform AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
-
-## 🤝 기여하기
-
-이슈나 개선사항이 있으시면 언제든지 Issue를 등록해주세요!
-
 ## 📄 라이선스
 
 이 프로젝트는 학습 목적으로 공개되었습니다.
